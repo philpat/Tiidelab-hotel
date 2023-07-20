@@ -222,7 +222,7 @@ p{
   padding: 10px;
   border: 1px solid #ddd;
 }
-#contact-form input, #contact-form textarea:focus{
+#contact-form input:focus, #contact-form textarea:focus{
   outline: none;
   border-color: #f7c08a;
 }
